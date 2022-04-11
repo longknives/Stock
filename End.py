@@ -16,7 +16,7 @@ def setVar(ending):
         ending == True
     
     if (command1 == commands[2]):
-         sys.stdout = open('C:/Users/Thegr/OneDrive/Desktop/Pra/log.txt', 'w')
+         sys.stdout = open('ENTERDIRECTORY, 'w')
    
     if (command1 == commands[3]):
         print('RAM memory % used:', psutil.virtual_memory()[2])
